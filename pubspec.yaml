@@ -1,0 +1,23 @@
+name: flutter_dynamic_routing
+description: "A Flutter package for enabling dynamic routing based on user choices or app states. Easily define custom workflows with flexible screen sequences to create adaptive navigation flows tailored to user actions. Perfect for apps with complex branching paths or multi-step processes."
+version: 0.0.1
+
+homepage: https://github.com/yourusername/dynamic_navigator
+repository: https://github.com/yourusername/dynamic_navigator.git
+
+
+environment:
+  sdk: ^3.5.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+
+flutter:
